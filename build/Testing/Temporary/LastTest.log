@@ -1,0 +1,296 @@
+Start testing: Oct 08 15:31 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/10 Testing: FiveTest.DefaultConstructor
+1/10 Test: FiveTest.DefaultConstructor
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.DefaultConstructor" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.DefaultConstructor
+Default constructor
+Destructor
+[       OK ] FiveTest.DefaultConstructor (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.DefaultConstructor" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: FiveTest.FillConstructor
+2/10 Test: FiveTest.FillConstructor
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.FillConstructor" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.FillConstructor" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.FillConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.FillConstructor
+Destructor
+[       OK ] FiveTest.FillConstructor (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.FillConstructor" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.FillConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: FiveTest.InitializerListConstructor
+3/10 Test: FiveTest.InitializerListConstructor
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.InitializerListConstructor" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.InitializerListConstructor" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.InitializerListConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.InitializerListConstructor
+Destructor
+[       OK ] FiveTest.InitializerListConstructor (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.InitializerListConstructor" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.InitializerListConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: FiveTest.StringConstructorValid
+4/10 Test: FiveTest.StringConstructorValid
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.StringConstructorValid" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.StringConstructorValid" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.StringConstructorValid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.StringConstructorValid
+Destructor
+[       OK ] FiveTest.StringConstructorValid (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.StringConstructorValid" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.StringConstructorValid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: FiveTest.StringConstructorInvalid
+5/10 Test: FiveTest.StringConstructorInvalid
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.StringConstructorInvalid" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.StringConstructorInvalid" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.StringConstructorInvalid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.StringConstructorInvalid
+[       OK ] FiveTest.StringConstructorInvalid (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.StringConstructorInvalid" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.StringConstructorInvalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: FiveTest.AddWithoutCarry
+6/10 Test: FiveTest.AddWithoutCarry
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.AddWithoutCarry" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.AddWithoutCarry" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.AddWithoutCarry
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.AddWithoutCarry
+Default constructor
+Destructor
+Destructor
+Destructor
+[       OK ] FiveTest.AddWithoutCarry (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.AddWithoutCarry" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.AddWithoutCarry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: FiveTest.AddWithCarry
+7/10 Test: FiveTest.AddWithCarry
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.AddWithCarry" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.AddWithCarry" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.AddWithCarry
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.AddWithCarry
+Default constructor
+Destructor
+Destructor
+Destructor
+[       OK ] FiveTest.AddWithCarry (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.AddWithCarry" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.AddWithCarry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: FiveTest.RemoveWithoutBorrow
+8/10 Test: FiveTest.RemoveWithoutBorrow
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.RemoveWithoutBorrow" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.RemoveWithoutBorrow" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.RemoveWithoutBorrow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.RemoveWithoutBorrow
+Default constructor
+Destructor
+Destructor
+Destructor
+[       OK ] FiveTest.RemoveWithoutBorrow (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.RemoveWithoutBorrow" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.RemoveWithoutBorrow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: FiveTest.RemoveWithBorrow
+9/10 Test: FiveTest.RemoveWithBorrow
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.RemoveWithBorrow" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.RemoveWithBorrow" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.RemoveWithBorrow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.RemoveWithBorrow
+Default constructor
+Destructor
+Destructor
+Destructor
+[       OK ] FiveTest.RemoveWithBorrow (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.RemoveWithBorrow" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.RemoveWithBorrow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: FiveTest.RemoveNegative
+10/10 Test: FiveTest.RemoveNegative
+Command: "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests.exe" "--gtest_filter=FiveTest.RemoveNegative" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/2/build
+"FiveTest.RemoveNegative" start time: Oct 08 15:31 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Alyona\2kurs\oop\2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FiveTest.RemoveNegative
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FiveTest
+[ RUN      ] FiveTest.RemoveNegative
+Destructor
+Destructor
+[       OK ] FiveTest.RemoveNegative (0 ms)
+[----------] 1 test from FiveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiveTest.RemoveNegative" end time: Oct 08 15:31 RTZ 2 (çèìà)
+"FiveTest.RemoveNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 08 15:31 RTZ 2 (çèìà)

@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests[1]_tests.cmake")
+  include("C:/Users/Alyona/2kurs/oop/2/build/lab_02_tests[1]_tests.cmake")
+else()
+  add_test(lab_02_tests_NOT_BUILT lab_02_tests_NOT_BUILT)
+endif()
